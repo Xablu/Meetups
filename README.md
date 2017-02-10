@@ -6,7 +6,7 @@ Welcome, it is good to see you are here and that you are interested in our Meetu
 ## Issues
 Please read the [Minimum System Requirements for Xamarin](https://developer.xamarin.com/guides/cross-platform/getting_started/requirements/) to check if your system is ready. If you need help in preparing your development environment, check out the [Setting up module](/Setting%20up%20and%20troubleshooting).
 
-> **Hint:** Installation and Setup of your Xamarin development environment can be a little bit tricky as so many different components have to intertwine. This list just describes what you need. You don't have to install it now, as there is an own  [Setting up module](/02%20Setting%20up).
+> **Hint:** Installation and Setup of your Xamarin development environment can be a little bit tricky as so many different components have to intertwine. This list just describes what you need. You don't have to install it now, as there is an own  [Setting up module](/Setting%20up%20and%20troubleshooting).
 
 **Mandatory**
 - Development machine (Windows 10, OS X El Capitan or macOS Sierra)
