@@ -1,12 +1,12 @@
-![Header](Misc/header.png)
+![Header](Misc/xablu_header.png)
 
-# Xablu meetups 📱
-Welcome, it is good to see you here being interested in learning how to write native mobile applications for iOS, Android and Windows in C#. Take some time to read the prerequisites, prepare your machine and start with the first lesson, when you are ready.
+# Xablu Meetups 📱
+Welcome, it is good to see you are here and that you are interested in our Meetups! In this repository you will find all content that is shown in all of our Meetups. We also included some QA answers and some help with setting up the Xamarin enviroment.
 
-## Prerequisites
-Please read the [Minimum System Requirements for Xamarin](https://developer.xamarin.com/guides/cross-platform/getting_started/requirements/) to check if your system is ready. If you need help in preparing your development environment, check out the [Setting up module](/02%20Setting%20up).
+## Issues
+Please read the [Minimum System Requirements for Xamarin](https://developer.xamarin.com/guides/cross-platform/getting_started/requirements/) to check if your system is ready. If you need help in preparing your development environment, check out the [Setting up module](/Setting%20up%20and%20troubleshooting).
 
-> **Hint:** Installation and Setup of your Xamarin development environment can be a little bit tricky as so many different components have to intertwine. This list just describes what you need. You don't have to install it now, as there is an own  [Setting up module](/02%20Setting%20up).
+> **Hint:** Installation and Setup of your Xamarin development environment can be a little bit tricky as so many different components have to intertwine. This list just describes what you need. You don't have to install it now, as there is an own  [Setting up module](/Setting%20up%20and%20troubleshooting).
 
 **Mandatory**
 - Development machine (Windows 10, OS X El Capitan or macOS Sierra)
@@ -19,8 +19,7 @@ Please read the [Minimum System Requirements for Xamarin](https://developer.xama
 - A Mac machine anywhere in your network as iOS Build Host
 
 ## Contribution
-Creating workshops all on my own is now fun especially as I am far from being a perfect developer or tutor. So this workshop is all about teamwork! All information that I try to provide here are state of the art as I write this workshop but technology change over time. Although I try to keep this workshop up-to-date, there always might be something outdated. In addition, this workshop is based on my personal knowledge, which means that it is definitely not perfect.
+Creating these meetups takes a lot of time. Have you found a bug or any other improvement? Feel free to send a PR so we can keep this information up to date!
 
-If you know something better, have a good idea, want to correct something or know a better teaching style please feel free to create a pull request. This workshop is getting better with every single contribution!
-
-Thank you ❤️
+## Credits
+The meetup content is created on our own but the part on setting up and troubleshooting has been made by Robin Manuel Thiel(https://github.com/robinmanuelthiel/xamarinworkshop) thanks!
