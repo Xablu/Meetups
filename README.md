@@ -3,7 +3,7 @@
 # Xablu Meetups 📱
 Welcome, it is good to see you are here and that you are interested in our Meetups! In this repository you will find all content that is shown in all of our Meetups. We also included some QA answers and some help with setting up the Xamarin enviroment.
 
-## Help
+## Issues
 Please read the [Minimum System Requirements for Xamarin](https://developer.xamarin.com/guides/cross-platform/getting_started/requirements/) to check if your system is ready. If you need help in preparing your development environment, check out the [Setting up module](/02%20Setting%20up).
 
 > **Hint:** Installation and Setup of your Xamarin development environment can be a little bit tricky as so many different components have to intertwine. This list just describes what you need. You don't have to install it now, as there is an own  [Setting up module](/02%20Setting%20up).
