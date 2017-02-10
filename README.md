@@ -22,4 +22,4 @@ Please read the [Minimum System Requirements for Xamarin](https://developer.xama
 Creating these meetups takes a lot of time. Have you found a bug or any other improvement? Feel free to send a PR so we can keep this information up to date!
 
 ## Credits
-The meetup content is created on our own but the part on setting up and troubleshooting has been made by Robin Manuel Thiel(https://github.com/robinmanuelthiel/xamarinworkshop) Thanks!
+The meetup content is created on our own but the part on setting up and troubleshooting has been made by Robin Manuel Thiel(https://github.com/robinmanuelthiel/xamarinworkshop) thanks!
