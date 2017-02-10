@@ -1,4 +1,4 @@
-![Header](Misc/header.jpg)
+![Header](Misc/header.png)
 
 # Xablu meetups 📱
 Welcome, it is good to see you here being interested in learning how to write native mobile applications for iOS, Android and Windows in C#. Take some time to read the prerequisites, prepare your machine and start with the first lesson, when you are ready.
