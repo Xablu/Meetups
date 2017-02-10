@@ -1,4 +1,3 @@
 # Basic Xamarin app with MvvmCross 
 
-
-Used for training purposes
+Shows the power of the bindings in MvvmCross!
