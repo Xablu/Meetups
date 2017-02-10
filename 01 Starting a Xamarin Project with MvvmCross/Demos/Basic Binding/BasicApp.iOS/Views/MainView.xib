@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MainView">
+            <connections>
+                <outlet property="lblHello" destination="NGl-pj-ZOY" id="ycq-1H-bkh"/>
+                <outlet property="txtHello" destination="Ef4-cF-zhb" id="LiK-Wn-6OP"/>
+                <outlet property="view" destination="2" id="RRd-Eg-VrN"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="..." textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Ef4-cF-zhb">
+                    <rect key="frame" x="8" y="318" width="359" height="30"/>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NGl-pj-ZOY">
+                    <rect key="frame" x="166" y="289" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="Ef4-cF-zhb" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="8" id="aqP-wB-RIO"/>
+                <constraint firstItem="NGl-pj-ZOY" firstAttribute="centerX" secondItem="2" secondAttribute="centerX" id="fAd-lK-7Ha"/>
+                <constraint firstItem="Ef4-cF-zhb" firstAttribute="centerY" secondItem="2" secondAttribute="centerY" id="hzp-3s-dDk"/>
+                <constraint firstItem="Ef4-cF-zhb" firstAttribute="top" secondItem="NGl-pj-ZOY" secondAttribute="bottom" constant="8" id="pPg-ur-29O"/>
+                <constraint firstAttribute="trailing" secondItem="Ef4-cF-zhb" secondAttribute="trailing" constant="8" id="u8P-ml-7uY"/>
+            </constraints>
+        </view>
+    </objects>
+</document>
