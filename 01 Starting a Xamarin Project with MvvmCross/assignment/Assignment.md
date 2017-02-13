@@ -1,2 +1,39 @@
 # Meetups
-Xablu is the host of several Meetups, in this repository you will find the presentations and the samples
+
+Xamarin/MvvmCross Guide
+Software needed:
+Xamarin Studio or Visual Studio
+Xamarin framework
+Android SDK
+Mono
+Java
+Xcode
+
+Create a new Solution
+- Add a PCL project to the solution called “YourCodeName”.Core
+- Add an Android and / or iOS project to the solution. Name them “YourCodeName”*.Droid or  “YourCodeName”*.iOS
+- If on Android set the target framework to Android 7.0. Do this on both the general and the Android build page. Set the minimum Android level to 4.0.4
+- Install the necessary MvvmCross packages in the projects
+- MvvmCross Starterpack (This will add the other packages as well)
+- Add reference to your Core in platform specific projects
+- Add ViewModels for Login and Main screen
+- Add Views for Login and Main screen, and connect them to the ViewModel
+- Add a Command to the Login ViewModel to navigate to the Main screen
+- Bind command to a button in the Login screen
+- Add a “Hello world” label and textbox to the main screen
+- Bind the Label to the Textbox
+
+Ready?
+Run the App!
+
+
+Bonus assignments
+Bonus assignment 1
+Create a screen with a table
+Fill it with data from an ObservableCollection 
+(hint: https://jsonplaceholder.typicode.com)
+On Item click event of a row, open a popup with the text of the row in it
+
+Resources:
+http://www.marcbruins.nl/xamarin-ios-list-with-mvvmcross/
+http://www.marcbruins.nl/xamarin-android-reyclerview-with-mvvmcross/
