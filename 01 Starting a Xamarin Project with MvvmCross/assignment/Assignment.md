@@ -9,7 +9,10 @@ This assignment belongs to the "Starting a Xamarin project with MvvmCross meetup
 - Java
 - Xcode
 
-Create a new Solution
+## Assignment 
+The assignment is divided in big steps. If you need help just ask!
+
+- Create a new Solution
 - Add a PCL project to the solution called “YourCodeName”.Core
 - Add an Android and / or iOS project to the solution. Name them “YourCodeName”*.Droid or  “YourCodeName”*.iOS
 - If on Android set the target framework to Android 7.0. Do this on both the general and the Android build page. Set the minimum Android level to 4.0.4
