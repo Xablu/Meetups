@@ -1,13 +1,13 @@
-# Meetups
+# Xamarin/MvvmCross Guide
+This assignment belongs to the "Starting a Xamarin project with MvvmCross meetup"
 
-Xamarin/MvvmCross Guide
-Software needed:
-Xamarin Studio or Visual Studio
-Xamarin framework
-Android SDK
-Mono
-Java
-Xcode
+## Software needed:
+- Xamarin Studio or Visual Studio
+- Xamarin framework
+- Android SDK
+- Mono
+- Java
+- Xcode
 
 Create a new Solution
 - Add a PCL project to the solution called “YourCodeName”.Core
@@ -26,12 +26,8 @@ Create a new Solution
 Ready?
 Run the App!
 
-
-Bonus assignments
-Bonus assignment 1
-Create a screen with a table
-Fill it with data from an ObservableCollection 
-(hint: https://jsonplaceholder.typicode.com)
+# Bonus assignments
+Create a screen with that shows a list of data (ether hardcoded or from an api:https://jsonplaceholder.typicode.com)
 On Item click event of a row, open a popup with the text of the row in it
 
 Resources:
