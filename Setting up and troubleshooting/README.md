@@ -11,6 +11,14 @@ When working on Windows, [Visual Studio](https://www.visualstudio.com/downloads/
 
 ![Add Xamarin to Visual Studio installation Screenshot](../Misc/vsinstallxamarinfeatures.png)
 
+## Using Visual Studio 2017
+
+Make sure, that the following workloads get installed:
+- Universal Windows Development
+- Cross Plaform Mobile Development with Xamarin
+
+## Using Visual Studio 2015
+
 You can select Xamarin from the ***Features*** list in the Visual Studio 2015 installer. Make sure, that the following features get installed:
 - Windows and Web Development
   - Universal Windows App Development Tools
@@ -47,10 +55,13 @@ You should also check if all the necessary Android components are installed or i
 Make sure, the following components are installed and up to date:
 
 - Tools
-  - Android SDK Tools
-  - Android SDK Platform-tools
-  - Android SDK Build-tools (23.0.1)
-  - Android SDK Build-tools (23.0.1)
+  - Android SDK Tools (25.2.5)
+  - Android SDK Platform-tools (25.0.4)
+  - Android SDK Build-tools (25.0.2)
+- Android 7.1.1 (API 25)
+  - SDK Platform
+- Android 7.0 (API 24)
+  - SDK Platform (optional but recommended)
 - Android 6.0 (API 23)
   - SDK Platform (optional but recommended)
 - Android 5.0.1 (API 21)
@@ -61,7 +72,7 @@ Make sure, the following components are installed and up to date:
   - SDK Platform
 - Extras
   - Android Support Repository
-  - Google Play Services (optional)
+  - Google Play Services
 
 ### Android Emulator
 To test your Android apps, you might need an emulator. You can use any emulator you like, for example 
