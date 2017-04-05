@@ -1,5 +1,5 @@
-# Xamarin/MvvmCross Guide
-This assignment belongs to the "Starting a Xamarin project with MvvmCross meetup"
+# Xamarin Guide
+This assignment belongs to the "Starting a Xamarin project" training
 
 ## Software needed:
 - Xamarin Studio or Visual Studio
