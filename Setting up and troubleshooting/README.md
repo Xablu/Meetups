@@ -42,13 +42,13 @@ You can select Xamarin from the ***Features*** list in the Visual Studio 2015 in
 > ![Modify Visual Studio features afterwards Screenshot](../Misc/winchangevsfeatures.png)
 
 ### On Mac
-On a Mac, Xamarin needs to be installed differently. [Download the installer](https://www.xamarin.com/download) and run it. It should install all Xamarin components you need, including the Android SDK and Xamarin Studio, which will be your IDE on OSX/macOS.
+On a Mac, Xamarin needs to be installed differently. [Download the installer](https://www.xamarin.com/download) and run it. It should install all Xamarin components you need, including the Android SDK and Visual Studio for Mac, which will be your IDE on OSX/macOS.
 
 ## Prepare for Android development
 ### Android SDK
 Both ways of installing Xamarin for Mac or Windows should install the Android SDK automatically. If anything goes wrong, you can also [download it from the Google Developer portal](https://developer.android.com/studio/index.html).
 
-You should also check if all the necessary Android components are installed or if any updates are available. We can check this inside the ***Android SDK Manager***. Open it in Visual Studio or Xamarin Studio at <kbd>Tools</kbd> <kbd>Android</kbd> <kbd>Android SDK Manager...</kbd>.
+You should also check if all the necessary Android components are installed or if any updates are available. We can check this inside the ***Android SDK Manager***. Open it in Visual Studio or Visual Studio for Mac at <kbd>Tools</kbd> <kbd>Android</kbd> <kbd>Android SDK Manager...</kbd>.
 
 ![Modify Visual Studio features afterwards Screenshot](../Misc/androidsdkmanager.png)
 
