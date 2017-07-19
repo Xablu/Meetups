@@ -33,9 +33,12 @@ Ready?
 Run the App!
 
 # Bonus assignments
-Create a screen with that shows a list of data (ether hardcoded or from an api:https://jsonplaceholder.typicode.com)
+1. Create a screen with that shows a list of data by using an API that runs in Azure: https://xablu-petstore.azurewebsites.net/swagger/
+
 On Item click event of a row, open a popup with the text of the row in it
 
 Resources:
 http://www.marcbruins.nl/xamarin-ios-list-with-mvvmcross/
+
+2. Extend or change the API by taking the source code from here: https://github.com/Xablu/Xablu.Petstore
 http://www.marcbruins.nl/xamarin-android-reyclerview-with-mvvmcross/
