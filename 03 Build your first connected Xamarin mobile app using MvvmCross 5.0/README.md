@@ -35,10 +35,10 @@ Run the App!
 # Bonus assignments
 1. Create a screen with that shows a list of data by using an API that runs in Azure: https://xablu-petstore.azurewebsites.net/swagger/
 
-On Item click event of a row, open a popup with the text of the row in it
+2. On Item click event of a row, open a popup with the text of the row in it
 
-Resources:
-http://www.marcbruins.nl/xamarin-ios-list-with-mvvmcross/
+   Resources:
+   http://www.marcbruins.nl/xamarin-ios-list-with-mvvmcross/
 
-2. Extend or change the API by taking the source code from here: https://github.com/Xablu/Xablu.Petstore
+3. Extend or change the API by taking the source code from here: https://github.com/Xablu/Xablu.Petstore
 http://www.marcbruins.nl/xamarin-android-reyclerview-with-mvvmcross/
