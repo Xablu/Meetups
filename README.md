@@ -10,7 +10,7 @@ Please read the [Minimum System Requirements for Xamarin](https://developer.xama
 
 **Mandatory**
 - Development machine (Windows 10, OS X El Capitan or macOS Sierra)
-- IDE ([Visual Studio for Windows](https://www.visualstudio.com/downloads/) or [Xamarin Studio for Mac](https://www.xamarin.com/download))
+- IDE ([Visual Studio for Windows](https://www.visualstudio.com/downloads/) or [Visual Studio for Mac](https://www.xamarin.com/download))
 - [Microsoft Azure subscription](https://azure.microsoft.com/en-us/free/) (free trial)
 - Internet connection
 
