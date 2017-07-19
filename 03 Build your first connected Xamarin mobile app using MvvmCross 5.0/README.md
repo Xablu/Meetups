@@ -33,7 +33,7 @@ Ready?
 Run the App!
 
 # Bonus assignments
-1. Create a screen with that shows a list of data by using an API that runs in Azure: https://xablu-petstore.azurewebsites.net/swagger/
+1. Create a screen that shows a list of data by using an API that runs in Azure: https://xablu-petstore.azurewebsites.net/swagger/
 
 2. On Item click event of a row, open a popup with the text of the row in it
 
